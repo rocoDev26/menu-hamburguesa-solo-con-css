@@ -1,0 +1,25 @@
+:root {
+    --color_primario: #8527c3fd;
+    --color_primario_suave: #8527c383;
+    --color_blanco: #fff;
+    --altura_header: 80px;
+    --padding_left_right: 2rem;
+    --ancho_maximo: 1200px;
+}
+
+.header {
+}
+.navbar {
+}
+.logo {
+}
+.labe_hamburguesa {
+}
+.list_icon {
+}
+.ul_links {
+}
+.li_links {
+}
+.link {
+}
